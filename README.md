@@ -1,4 +1,5 @@
 # Battleship-solver
+Program solving the game battleships
 
 ## Goal
 The goal of this task is to implement a strategy for playing a modified version of the popular Battleship game. 
