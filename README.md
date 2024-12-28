@@ -2,7 +2,7 @@
 Program solving the game battleships
 
 ## Goal
-The goal of this task is to implement a strategy for playing a modified version of the popular Battleship game. 
+The goal of this program is to implement a strategy for playing a modified version of the popular Battleship game. 
 The task is to hit and sink all enemy vessels. You launch a missile to a given location of the enemy field. It can hit a vessel and you will know that, or it can miss (hit the water). In case of a miss, differing from the classic game, it will report back the distances to the vessels that are in a given range (shaped as a circle around the hit point). Also each vessel will occupy a single cell from the field and it is possible to have two different vessels in adjacent cells.
 
 ## Input
